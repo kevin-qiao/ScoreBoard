@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 主客队的阵容
+	home 表示主队 away 表示客队
+	id 1(主队) 2(客队)
+	first 首发 reserve 替补
+	每队最多23人，首发11人，替补12人
+	-->
+<players>
+	<!-- 主队 -->
+	<home id="1" team="A1">
+		<first>
+			<player index="1" number="1">abc</player>
+		</first>
+		<reserve>
+			<player index="2" number="2">def</player>
+		</reserve>
+	</home>
+	
+	<!-- 客队 -->
+	<away id="2" team="A2">
+		<first>
+			<player index="1" number="1">ghi</player>
+		</first>
+		<reserve>
+			<player index="2" number="2">jkl</player>
+		</reserve>
+	</away>
+</players>

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 完场比分
+ -->
+
+<end_game>
+	<date id="1" value="6月9日">
+		<game id="1">
+		    <round>A组</round>
+			<home>abc</home>
+			<away>efg</away>
+			<score>2 - 0</score>
+		</game>
+		
+		<game id="2">
+		    <round>A组</round>
+			<home>xyz</home>
+			<away>tex</away>
+			<score>0 - 0</score>
+		</game>		
+	</date>
+	
+	<date id="2" value="6月10日">
+		<game id="1">
+		    <round>B组</round>
+			<home>abc</home>
+			<away>efg</away>
+			<score>2 - 0</score>
+		</game>
+		
+		<game id="2">
+		    <round>B组</round>
+			<home>xyz</home>
+			<away>tex</away>
+			<score>0 - 0</score>
+		</game>		
+	</date>
+	
+</end_game>

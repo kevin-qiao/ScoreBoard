@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, ScoreBoardActivity!</string>
+    <string name="app_name">2012欧洲杯比分</string>
+    
+    <string name="empty_label">暂时无法获得数据信息，请检查网络</string>
+    
+    <string name="tab_today_label">即时比分</string>
+    <string name="tab_all_label">完场比分</string>
+    <string name="tab_rank_label">积分榜</string>
+    <string name="tab_top_label">射手榜</string>
+    
+    <string name="title_detail_label">本场即时信息</string>
+    <string name="img_home_desc">主队队徽</string>
+    <string name="img_away_desc">客队队徽</string>
+    <string name="img_event_desc">事件图标</string>
+    
+    <!-- ScoreDetailActivity -->
+    <string name="info_title">比赛信息：</string>
+    <string name="team_title">阵容：</string>
+    
+    <string name="schedule_title">2012欧洲杯赛程</string>
+    
+    <string name="odds_label">盘口:</string>
+    
+    <string name="alert_msg">确认退出软件?</string>
+	<string name="positive_label">确认</string>
+	<string name="negative_label">取消</string>
+	
+	<string name="net_error_label">网络连接出错</string>
+	
+	<string name="event_label">即时信息</string>
+	<string name="team_label">球队阵容</string>
+	
+</resources>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!--比赛即时信息
+	team: home/away 表示主队/客队
+	status: 1(进球) 2(乌龙球) 3(点球) 4(黄牌) 5(红牌) 6(两黄变红) 7(入球无效) 8(换人) 9(换入) 10(换出)
+	time: 事件发生时间
+	-->
+	
+<event>
+	<title>hello</title>
+	<score>1 - 0</score>
+	<info id="1" team="home" status="1" time="28'">abc</info>
+</event>

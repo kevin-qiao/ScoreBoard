@@ -1,0 +1,283 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<match>
+	<info id="1">
+		<date>6月9日</date>
+		<week>星期六</week>
+		<time>00:00</time>
+		<round>A组小组赛</round>
+		<home>波兰</home>
+		<away>希腊</away>
+	</info>
+	
+	<info id="2">
+		<date>6月9日</date>
+		<week>星期六</week>
+		<time>02:45</time>
+		<round>A组小组赛</round>
+		<home>俄罗斯</home>
+		<away>捷克</away>
+	</info>
+	
+	<info id="3">
+		<date>6月10日</date>
+		<week>星期日</week>
+		<time>00:00</time>
+		<round>B组小组赛</round>
+		<home>荷兰</home>
+		<away>丹麦</away>
+	</info>
+	
+	<info id="4">
+		<date>6月10日</date>
+		<week>星期日</week>
+		<time>02:45</time>
+		<round>B组小组赛</round>
+		<home>德国</home>
+		<away>葡萄牙</away>
+	</info>
+	
+	<info id="5">
+		<date>6月11日</date>
+		<week>星期一</week>
+		<time>00:00</time>
+		<round>C组小组赛</round>
+		<home>西班牙</home>
+		<away>意大利</away>
+	</info>
+	
+	<info id="6">
+		<date>6月11日</date>
+		<week>星期一</week>
+		<time>02:45</time>
+		<round>C组小组赛</round>
+		<home>爱尔兰</home>
+		<away>克罗地亚</away>
+	</info>
+	
+	<info id="7">
+		<date>6月12日</date>
+		<week>星期二</week>
+		<time>00:00</time>
+		<round>D组小组赛</round>
+		<home>法国</home>
+		<away>英格兰</away>
+	</info>
+	
+	<info id="8">
+		<date>6月12日</date>
+		<week>星期二</week>
+		<time>02:45</time>
+		<round>D组小组赛</round>
+		<home>乌克兰</home>
+		<away>瑞典</away>
+	</info>
+	
+	<info id="9">
+		<date>6月13日</date>
+		<week>星期三</week>
+		<time>00:00</time>
+		<round>A组小组赛</round>
+		<home>希腊</home>
+		<away>捷克</away>
+	</info>
+	
+	<info id="10">
+		<date>6月13日</date>
+		<week>星期三</week>
+		<time>02:45</time>
+		<round>A组小组赛</round>
+		<home>波兰</home>
+		<away>俄罗斯</away>
+	</info>
+	
+	<info id="11">
+		<date>6月14日</date>
+		<week>星期四</week>
+		<time>00:00</time>
+		<round>B组小组赛</round>
+		<home>丹麦</home>
+		<away>葡萄牙</away>
+	</info>
+	
+	<info id="12">
+		<date>6月14日</date>
+		<week>星期四</week>
+		<time>02:45</time>
+		<round>B组小组赛</round>
+		<home>荷兰</home>
+		<away>德国</away>
+	</info>
+	
+	<info id="13">
+		<date>6月15日</date>
+		<week>星期五</week>
+		<time>00:00</time>
+		<round>C组小组赛</round>
+		<home>意大利</home>
+		<away>克罗地亚</away>
+	</info>
+	
+	<info id="14">
+		<date>6月15日</date>
+		<week>星期五</week>
+		<time>02:45</time>
+		<round>C组小组赛</round>
+		<home>西班牙</home>
+		<away>爱尔兰</away>
+	</info>
+	
+	<info id="15">
+		<date>6月16日</date>
+		<week>星期六</week>
+		<time>00:00</time>
+		<round>D组小组赛</round>
+		<home>瑞典</home>
+		<away>英格兰</away>
+	</info>
+	
+	<info id="16">
+		<date>6月16日</date>
+		<week>星期六</week>
+		<time>02:45</time>
+		<round>D组小组赛</round>
+		<home>乌克兰</home>
+		<away>法国</away>
+	</info>
+	
+	<info id="17">
+		<date>6月17日</date>
+		<week>星期日</week>
+		<time>02:45</time>
+		<round>A组小组赛</round>
+		<home>希腊</home>
+		<away>俄罗斯</away>
+	</info>
+	
+	<info id="18">
+		<date>6月17日</date>
+		<week>星期日</week>
+		<time>02:45</time>
+		<round>A组小组赛</round>
+		<home>捷克</home>
+		<away>波兰</away>
+	</info>
+	
+	<info id="19">
+		<date>6月18日</date>
+		<week>星期一</week>
+		<time>02:45</time>
+		<round>B组小组赛</round>
+		<home>葡萄牙</home>
+		<away>荷兰</away>
+	</info>
+	
+	<info id="20">
+		<date>6月18日</date>
+		<week>星期一</week>
+		<time>02:45</time>
+		<round>B组小组赛</round>
+		<home>丹麦</home>
+		<away>德国</away>
+	</info>
+	
+	<info id="21">
+		<date>6月19日</date>
+		<week>星期二</week>
+		<time>02:45</time>
+		<round>C组小组赛</round>
+		<home>克罗地亚</home>
+		<away>西班牙</away>
+	</info>
+	
+	<info id="22">
+		<date>6月19日</date>
+		<week>星期二</week>
+		<time>02:45</time>
+		<round>C组小组赛</round>
+		<home>意大利</home>
+		<away>爱尔兰</away>
+	</info>
+	
+	<info id="23">
+		<date>6月20日</date>
+		<week>星期三</week>
+		<time>02:45</time>
+		<round>D组小组赛</round>
+		<home>瑞典</home>
+		<away>法国</away>
+	</info>
+	
+	<info id="24">
+		<date>6月20日</date>
+		<week>星期三</week>
+		<time>02:45</time>
+		<round>D组小组赛</round>
+		<home>英格兰</home>
+		<away>乌克兰</away>
+	</info>
+	
+	<info id="25">
+		<date>6月22日</date>
+		<week>星期五</week>
+		<time>02:45</time>
+		<round>1/4决赛</round>
+		<home>A组第1</home>
+		<away>B组第2</away>
+	</info>
+	
+	<info id="26">
+		<date>6月23日</date>
+		<week>星期六</week>
+		<time>02:45</time>
+		<round>1/4决赛</round>
+		<home>B组第1</home>
+		<away>A组第2</away>
+	</info>
+	
+	<info id="27">
+		<date>6月24日</date>
+		<week>星期日</week>
+		<time>02:45</time>
+		<round>1/4决赛</round>
+		<home>C组第1</home>
+		<away>D组第2</away>
+	</info>
+	
+	<info id="28">
+		<date>6月25日</date>
+		<week>星期一</week>
+		<time>02:45</time>
+		<round>1/4决赛</round>
+		<home>D组第1</home>
+		<away>C组第2</away>
+	</info>
+	
+	<info id="29">
+		<date>6月28日</date>
+		<week>星期四</week>
+		<time>02:45</time>
+		<round>半决赛</round>
+		<home>1/4决赛第1战胜者</home>
+		<away>1/4决赛第3战胜者</away>
+	</info>
+	
+	<info id="30">
+		<date>6月29日</date>
+		<week>星期五</week>
+		<time>02:45</time>
+		<round>半决赛</round>
+		<home>1/4决赛第2战胜者</home>
+		<away>1/4决赛第4战胜者</away>
+	</info>
+	
+	<info id="31">
+		<date>7月2日</date>
+		<week>星期一</week>
+		<time>02:45</time>
+		<round>决赛</round>
+		<home>半决赛第1战胜者</home>
+		<away>半决赛第2战胜者</away>
+	</info>
+	
+</match>

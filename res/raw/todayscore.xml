@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?> 
+
+<scores>
+	<match id = "1" name = "欧洲杯">
+		<round>小组赛A组第一轮</round>
+		<date>2012-6-9</date>
+		<status>未开赛</status>
+		<home>波兰</home>
+		<visit>希腊</visit>
+		<score>0-0</score>
+		<fid>1</fid>
+		<r>2</r>
+	</match>
+	
+	<match id = "2" name = "欧洲杯">
+		<round>小组赛A组第一轮</round>
+		<date>2012-6-9</date>
+		<status>未开赛</status>
+		<home>英格兰</home>
+		<visit>德国</visit>
+		<score>3-1</score>
+		<fid>1</fid>
+		<r>2</r>
+	</match>
+	
+	<match id = "3" name = "欧洲杯">
+		<round>小组赛A组第一轮</round>
+		<date>2012-6-9</date>
+		<status>未开赛</status>
+		<home>中国</home>
+		<visit>菲律宾</visit>
+		<score>0-10</score>
+		<fid>1</fid>
+		<r>2</r>
+	</match>
+	
+	<match id = "4" name = "欧洲杯">
+		<round>小组赛A组第一轮</round>
+		<date>2012-6-9</date>
+		<status>未开赛</status>
+		<home>中兴</home>
+		<visit>华为</visit>
+		<score>0-100</score>
+		<fid>1</fid>
+		<r>2</r>
+	</match>
+</scores>
